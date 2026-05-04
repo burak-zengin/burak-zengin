@@ -18,22 +18,6 @@ I design and build scalable backend systems with a strong focus on **Domain-Driv
 
 ---
 
-## 🔥 Featured Projects
-
-> (Burası en kritik alan — dolduracağız)
-
-* 🚧 **AirRetail**
-  Event-driven architecture with Outbox, Kafka, Mongo projections
-  *(Private / will be open-sourced soon)*
-
-* ⚡ **dotnet-testcontainers-template**
-  Ready-to-use integration testing infrastructure with Testcontainers
-
-* 📦 **(yakında)** Distributed DDD Template
-  Clean Architecture + CQRS + Kafka + Outbox
-
----
-
 ## ⚙️ Tech Stack
 
 **Backend**
