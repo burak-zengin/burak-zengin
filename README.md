@@ -68,7 +68,7 @@ I design and build scalable backend systems with a strong focus on **Domain-Driv
 ## 📫 Contact
 
 * GitHub: https://github.com/burak-zengin
-* LinkedIn: (ekle)
+* LinkedIn: https://www.linkedin.com/in/burakzengin
 
 ---
 
